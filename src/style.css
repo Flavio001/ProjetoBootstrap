@@ -1,5 +1,7 @@
 .nav-titulo{
     font-family: 'Pacifico', cursive;
+    color: #720000 !important;
+
 }
 .carrossel-titulo{
     font-family: 'Pacifico', cursive;
@@ -16,4 +18,26 @@
  object-fit: cover;
  object-position: 0 80%;
  height: 400px;
+}
+
+.img-card{
+ object-fit: cover;
+ height: 300px;
+}
+
+.btn-card{
+    background-color: darkred;
+    color: white;
+}
+.card{
+    border: 1px solid gray;
+    display: flex;
+}
+footer p{
+    text-align: center;
+    color: #fff;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
 }
