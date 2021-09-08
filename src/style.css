@@ -1,0 +1,11 @@
+.nav-titulo {
+    font-family: 'Pacifico', cursive;
+}
+.carrossel-titulo{
+    font-family: 'Pacifico', cursive;
+}
+.img-carrossel{
+ object-fit: cover;
+ object-position: 0 80%;
+ height: 400px;
+}
