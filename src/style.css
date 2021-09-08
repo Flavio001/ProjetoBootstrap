@@ -1,8 +1,16 @@
-.nav-titulo {
+.nav-titulo{
     font-family: 'Pacifico', cursive;
 }
 .carrossel-titulo{
     font-family: 'Pacifico', cursive;
+}
+.h2-titulo{
+    font-family: 'Pacifico', cursive;
+    color: #720000;
+}
+
+.p-titulo{
+    color: rgb(88, 80, 80);
 }
 .img-carrossel{
  object-fit: cover;
